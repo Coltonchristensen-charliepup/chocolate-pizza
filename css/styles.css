@@ -1,0 +1,25 @@
+.container {
+  display: block;
+  position: left;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+label {
+  float: left;
+  margin: 5px 0px;
+}
+input {
+  float: left;
+  margin: 5px 0px;
+  width: 35px;
+}
+.clear {
+  clear: both;
+}
